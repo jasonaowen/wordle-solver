@@ -1,4 +1,11 @@
 {
+  "name": "wordle-solver",
+  "description": "figure out what the word of the day is based on completed Wordle grids",
+  "author": {
+    "name": "Jason Owen",
+    "email": "jason@jasonaowen.net",
+    "url": "https://jasonaowen.net"
+  },
   "scripts": {
     "build": "tsc",
     "lint": "eslint --ext .ts src/",
